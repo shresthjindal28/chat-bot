@@ -26,7 +26,7 @@ This project is an AI-powered chat bot that can answer various types of question
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/shresthjindal28/AI-CHAT_BOT.git
+   git clone https://github.com/shresthjindal28/chat-bot.git
    ```
 2. Navigate to the project directory:
    ```sh
